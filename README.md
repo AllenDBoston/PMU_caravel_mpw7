@@ -21,8 +21,8 @@ As of today the primary objectives of the PMU are to accurately transfer FPGA bi
 -SHA:  https://github.com/secworks/sha256
 
 
-## TOOLS
+## Tools
 
-SiliconSompiler was used to complete RTL-to-GDS flow for this project. SiliconCompiler is opensource compiler for automating source code to silicon using a Python API. 
+SiliconCompiler was used to complete RTL-to-GDS flow for this project. SiliconCompiler is opensource compiler for automating source code to silicon using a Python API. 
 
 -SiliconCompiler: https://github.com/siliconcompiler/siliconcompiler
